@@ -9,39 +9,39 @@ The dataset is sourced from Kaggle and includes data points on various aspects o
 ## Key Steps and Techniques Used:
 **Data Preprocessing:**
 
-•The dataset is cleaned by handling missing data, eliminating irrelevant features, and converting data into a more usable format for analysis.
+• The dataset is cleaned by handling missing data, eliminating irrelevant features, and converting data into a more usable format for analysis.
 
-•I performed feature engineering to create new variables and transform existing ones, ensuring the dataset was ready for exploration.
+• I performed feature engineering to create new variables and transform existing ones, ensuring the dataset was ready for exploration.
 
 **Exploratory Data Analysis (EDA):**
 
-•Various Python libraries (Pandas, Matplotlib, Seaborn) are used to visualize and summarize the dataset. Graphs such as histograms, boxplots, scatter plots, and heatmaps were created to identify relationships and patterns.
+• Various Python libraries (Pandas, Matplotlib, Seaborn) are used to visualize and summarize the dataset. Graphs such as histograms, boxplots, scatter plots, and heatmaps were created to identify relationships and patterns.
 
-•Statistical analysis was performed to explore the correlation between variables such as time of day, weather, and accident severity.
+• Statistical analysis was performed to explore the correlation between variables such as time of day, weather, and accident severity.
 
 **Geospatial Analysis:**
 
-•With libraries like Geopandas and Folium, I created interactive maps that help visualize accident hotspots across the U.S. These visualizations reveal accident-prone areas and allow for geographic analysis of accident trends.
+• With libraries like Geopandas and Folium, I created interactive maps that help visualize accident hotspots across the U.S. These visualizations reveal accident-prone areas and allow for geographic analysis of accident trends.
 
 **Time-Series Analysis:**
 
-•The project also explores trends over time, including patterns related to the time of year, day of the week, and hours of the day when accidents are most frequent.
+• The project also explores trends over time, including patterns related to the time of year, day of the week, and hours of the day when accidents are most frequent.
 
-•I used time-series techniques to analyze changes in accident rates over different periods and identify any seasonal or long-term trends.
+• I used time-series techniques to analyze changes in accident rates over different periods and identify any seasonal or long-term trends.
 
 **Correlation and Predictive Modeling:**
 
-•Using correlation analysis, the relationships between different variables (e.g., weather conditions, time of day, location) and accident severity were examined.
+• Using correlation analysis, the relationships between different variables (e.g., weather conditions, time of day, location) and accident severity were examined.
 
-•I implemented simple machine learning models to predict accident severity based on features like weather, time, and location.
+• I implemented simple machine learning models to predict accident severity based on features like weather, time, and location.
 
 **Outcomes and Insights:**
 
-•Identification of areas with a high concentration of accidents and times of day when accidents are most likely to occur.
+• Identification of areas with a high concentration of accidents and times of day when accidents are most likely to occur.
 
-•Insights into the role of weather conditions, road types, and traffic density in influencing accident severity.
+• Insights into the role of weather conditions, road types, and traffic density in influencing accident severity.
 
-•Potential suggestions for improving road safety, such as better signage in accident-prone areas or targeted interventions based on weather-related accident trends.
+• Potential suggestions for improving road safety, such as better signage in accident-prone areas or targeted interventions based on weather-related accident trends.
 
 ## Technologies Used:
 
